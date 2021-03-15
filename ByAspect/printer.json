@@ -1,0 +1,81 @@
+{
+  "aliases": false,
+  "languages": [
+    "en",
+    "da",
+    "es",
+    "fr",
+    "jp",
+    "nl",
+    "no",
+    "ru",
+    "sv",
+    "zh"
+  ],
+  "entities": [
+    {
+      "id": 0,
+      "type": "item",
+      "properties": [
+        {
+          "property": "P50",
+          "rank": "non-deprecated",
+          "id": 0,
+          "type": "anyvalue"
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "type": "item",
+      "properties": [
+        {
+          "property": "P577",
+          "rank": "non-deprecated",
+          "id": 0,
+          "type": "anyvalue"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "type": "item",
+      "properties": [
+        {
+          "property": "P872",
+          "rank": "non-deprecated",
+          "id": 0,
+          "type": "anyvalue"
+        }
+      ]
+    }
+  ],
+  "meta": false,
+  "statements": [
+    {
+      "references": false,
+      "qualifiers": false,
+      "rank": "all",
+      "simple": false,
+      "id": 0,
+      "full": false
+    },
+    {
+      "references": false,
+      "rank": "all",
+      "qualifiers": false,
+      "simple": true,
+      "id": 1,
+      "properties": [
+        "P50",
+        "P577",
+        "P872"
+      ],
+      "full": false
+    }
+  ],
+  "sitelinks": false,
+  "version": "1",
+  "descriptions": true,
+  "labels": true
+}

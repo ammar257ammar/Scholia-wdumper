@@ -1,0 +1,328 @@
+{
+  "aliases": false,
+  "languages": [
+    "en",
+    "da",
+    "es",
+    "fr",
+    "jp",
+    "nl",
+    "no",
+    "ru",
+    "sv",
+    "zh"
+  ],
+  "entities": [
+    {
+      "id": 0,
+      "type": "item",
+      "properties": [
+        {
+          "property": "P625",
+          "rank": "non-deprecated",
+          "id": 0,
+          "type": "anyvalue"
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "type": "item",
+      "properties": [
+        {
+          "property": "P31",
+          "rank": "non-deprecated",
+          "id": 0,
+          "type": "anyvalue"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "type": "item",
+      "properties": [
+        {
+          "property": "P5804",
+          "rank": "non-deprecated",
+          "id": 0,
+          "type": "anyvalue"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "type": "item",
+      "properties": [
+        {
+          "property": "P585",
+          "rank": "non-deprecated",
+          "id": 0,
+          "type": "anyvalue"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "type": "item",
+      "properties": [
+        {
+          "property": "P582",
+          "rank": "non-deprecated",
+          "id": 0,
+          "type": "anyvalue"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "type": "item",
+      "properties": [
+        {
+          "property": "P580",
+          "rank": "non-deprecated",
+          "id": 0,
+          "type": "anyvalue"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "type": "item",
+      "properties": [
+        {
+          "property": "P18",
+          "rank": "non-deprecated",
+          "id": 0,
+          "type": "anyvalue"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "type": "item",
+      "properties": [
+        {
+          "property": "P1344",
+          "rank": "non-deprecated",
+          "id": 0,
+          "type": "anyvalue"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "type": "item",
+      "properties": [
+        {
+          "property": "P98",
+          "rank": "non-deprecated",
+          "id": 0,
+          "type": "anyvalue"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "type": "item",
+      "properties": [
+        {
+          "property": "P577",
+          "rank": "non-deprecated",
+          "id": 0,
+          "type": "anyvalue"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "type": "item",
+      "properties": [
+        {
+          "property": "P179",
+          "rank": "non-deprecated",
+          "id": 0,
+          "type": "anyvalue"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "type": "item",
+      "properties": [
+        {
+          "property": "P4745",
+          "rank": "non-deprecated",
+          "id": 0,
+          "type": "anyvalue"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "type": "item",
+      "properties": [
+        {
+          "property": "P823",
+          "rank": "non-deprecated",
+          "id": 0,
+          "type": "anyvalue"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "type": "item",
+      "properties": [
+        {
+          "property": "P664",
+          "rank": "non-deprecated",
+          "id": 0,
+          "type": "anyvalue"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "type": "item",
+      "properties": [
+        {
+          "property": "P1813",
+          "rank": "non-deprecated",
+          "id": 0,
+          "type": "anyvalue"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "type": "item",
+      "properties": [
+        {
+          "property": "P710",
+          "rank": "non-deprecated",
+          "id": 0,
+          "type": "anyvalue"
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "type": "item",
+      "properties": [
+        {
+          "property": "P159",
+          "rank": "non-deprecated",
+          "id": 0,
+          "type": "anyvalue"
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "type": "item",
+      "properties": [
+        {
+          "property": "P279",
+          "rank": "non-deprecated",
+          "id": 0,
+          "type": "anyvalue"
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "type": "item",
+      "properties": [
+        {
+          "property": "P276",
+          "rank": "non-deprecated",
+          "id": 0,
+          "type": "anyvalue"
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "type": "item",
+      "properties": [
+        {
+          "property": "P921",
+          "rank": "non-deprecated",
+          "id": 0,
+          "type": "anyvalue"
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "type": "item",
+      "properties": [
+        {
+          "property": "P50",
+          "rank": "non-deprecated",
+          "id": 0,
+          "type": "anyvalue"
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "type": "item",
+      "properties": [
+        {
+          "property": "P1433",
+          "rank": "non-deprecated",
+          "id": 0,
+          "type": "anyvalue"
+        }
+      ]
+    }
+  ],
+  "meta": false,
+  "statements": [
+    {
+      "references": false,
+      "qualifiers": false,
+      "rank": "all",
+      "simple": false,
+      "id": 0,
+      "full": false
+    },
+    {
+      "references": false,
+      "rank": "all",
+      "qualifiers": false,
+      "simple": true,
+      "id": 1,
+      "properties": [
+        "P625",
+        "P31",
+        "P5804",
+        "P585",
+        "P582",
+        "P580",
+        "P18",
+        "P1344",
+        "P98",
+        "P577",
+        "P179",
+        "P4745",
+        "P823",
+        "P664",
+        "P1813",
+        "P710",
+        "P159",
+        "P279",
+        "P276",
+        "P921",
+        "P50",
+        "P1433"
+      ],
+      "full": false
+    }
+  ],
+  "sitelinks": false,
+  "version": "1",
+  "descriptions": true,
+  "labels": true
+}
